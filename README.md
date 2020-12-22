@@ -1,13 +1,13 @@
 # Simple Notekeeping app
 ___
-** Description: **
+**Description:**\n
 A RESTful API for a notekeeping application using Flask.\nThe application uses the following libraries:\n
 + flask
 + blueprint
 + flask_jwt_extended
 + sqlite3
 ___
-** Usages: **
+**Usages:**
 + Register user
 + Login user
 + Add note for user
